@@ -76,3 +76,5 @@ npm install
 npm run dev
 # Prescripto
 Prescripto is a full stack Doctor Appointment Booking Platform (MERN Stack) with Admin &amp; Doctor Dashboards, JWT Auth, Razorpay Integration, and Real-time Availability Management.
+
+⭐ If you like this project, don’t forget to star the repo!
